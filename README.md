@@ -152,7 +152,7 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 ## :mortar_board: Team
 |Nome|Função|Linkedin|GitHub|Avatar|
 | -------- |-------- |-------- |-------- |-------- |
-|**Lucas Rodrigo Leite Fonseca Moreira**|Scrum Master/Developer|[@LinkedIn](https://www.linkedin.com/in/lucas-rodrigo-169405169/)|[@GitHub](https://github.com/lucasrodrigof)|<img src = "/Imagens Gerais/Lucas.jpeg" width="50" height="73">|
+|**Lucas Rodrigo Leite Fonseca Moreira**|Scrum Master/Developer|[@LinkedIn](https://www.linkedin.com/in/lucas-rodrigo-169405169/)|[@GitHub](https://github.com/lucasrodrigof)|<img src = "/Imagens Gerais/Lucas.jpeg" width="50" height="80">|
 |**Pedro Henrique Siqueira Cardoso**|Product Owner/Developer|[@LinkedIn](https://www.linkedin.com/in/pedro-cardoso-6b93011b6/)|[@GitHub](https://github.com/PhscZ)|<img src = "/Imagens Gerais/pedro.png" width="50" height="73">|
 |**Giovani Carvalho Ávila**|Front End Developer|[@LinkedIn](https://www.linkedin.com/in/giovani-carvalho-avila-80593a224/)|[@GitHub](https://github.com/GiovaniAvila)|<img src = "/Imagens Gerais/giovani.png" width="50" height="73">|
 |**Thiago Carvalho da Silva**|Back End Developer|[@LinkedIn](#)|[@GitHub](https://github.com/tsilvadev89)|<img src = "/Imagens Gerais/thiago.png" width="50" height="73">|
