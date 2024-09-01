@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Horas Extras e Sobreavisos
+# ClimaMonitor - Monitoramento Inteligente de Condições Climáticas para Produtores Rurais
 <br>
 <p align="center">
       <img src="/Imagens Gerais/logo.png" width="300" height="250">
@@ -27,7 +27,17 @@
 <br>
 
 ## :checkered_flag: Desafio
+O objetivo é desenvolver um aplicativo para auxiliar os produtores rurais a acompanhar o histórico
 
+das variações das informações climáticas de uma determinada lavoura, ponto. O aplicativo deve
+
+permitir aos usuários cadastrar seus pontos, e acompanhar via gráficos a variação da pluviometria
+
+e da temperatura a partir de uma data informada, até a data atual.
+
+O aplicativo também deve ter a capacidade de exibir dados consolidados de temperatura e
+
+pluviometria por ano ou mês. E emitir notificações e alertas em caso de situações críticas.
 
 <br>
 
@@ -59,35 +69,35 @@
 
 ## :bulb: Metodologia Utilizada
 
-* **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
+* **Metodologia Ágil:** 
 
 <br>
 
 ## :wrench: Tecnologias Utilizadas
 
-<img src = "/Imagens Gerais/Imagem tecnologias utilizadas.jpeg" width="680" height="511">
+<img src = "#" width="680" height="511">
 
 * **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
-* **Banco de Dados:** PostgreSQL;
-* **Back-end:**  Typescript, Typeorm, Express;
-* **Front-end:** React, Node e TypeScript;
-* **Ferramentas:** Github, Visual Studio Code, Figma, BRmodelo.
+* **Banco de Dados:** ;
+* **Back-end:**  ;
+* **Front-end:** ;
+* **Ferramentas:** Github, Visual Studio Code, Figma.
 
 <br>
 
 ## :computer: Modelagem do Banco de Dados
 
-[Documentação do Banco de Dados](https://github.com/2rp-net-API/2RP/blob/main/Sprint%201/Documenta%C3%A7%C3%A3o/documentacaoDB.pdf)
+[Documentação do Banco de Dados]()
 
 
 <p align="center">Modelo Conceitual</p>
 <p align="center">
-<img src="./Imagens Gerais/mconceitual.jpeg"/>
+<img src="#"/>
 </p>
 
 <p align="center">Modelo Lógico</p>
 <p align="center">
-<img src="./Imagens Gerais/mlogico.png"/>
+<img src="#"/>
 </p>
 
 <br>
@@ -96,22 +106,22 @@
 
 | Repositório                                                       | Descrição                                                                          |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [Documentation](https://github.com/2rp-net-API/2rp-net-API) | Documentação do sistema                                                      |
-| [Client](https://github.com/2rp-net-API/Front-End)           | Aplicação Client com a interface dos Funcionários                                       |
-| [Server](https://github.com/2rp-net-API/server)           | Aplicação Server que gerencia todas as requisições e comunicação com o banco de dados |
+| [Documentation]() | Documentação do sistema                                                      |
+| []()           |                           |
+| []()           |  |
 
 <br>
 
 ## :pencil2: Prototipos
 
-<p align="center">Tela Login</p>
+<p align="center"></p>
 <p align="center">
-<img src="./Imagens Gerais/tela login.png"/>
+<img src="#"/>
 </p>
 
-<p align="center">Tela Hora Extra Funcionário</p>
+<p align="center"></p>
 <p align="center">
-<img src="./Imagens Gerais/tela hora extra.png"/>
+<img src="#"/>
 </p>
 
 <p align="center">Tela Sobreaviso Funcionário</p>
@@ -142,7 +152,7 @@
 ## :mortar_board: Team
 |Nome|Função|Linkedin|GitHub|Avatar|
 | -------- |-------- |-------- |-------- |-------- |
-|**Ana Christina Ferreira Dias da Silva**|Scrum Master/Developer|[@LinkedIn](https://www.linkedin.com/in/ana-christina-silva)|[@GitHub](https://github.com/AnaChristina)|<img src = "/Imagens Gerais/Ana.jpeg" width="50" height="73">|
+|**Lucas Rodrigo Leite Fonseca Moreira**|Scrum Master/Developer|[@LinkedIn](https://www.linkedin.com/in/ana-christina-silva)|[@GitHub](https://github.com/AnaChristina)|<img src = "/Imagens Gerais/Ana.jpeg" width="50" height="73">|
 |**Daniela dos Santos Meirelles**|Product Owner/Developer|[@LinkedIn](https://www.linkedin.com/in/daniela-meirelles-1990/)|[@GitHub](https://github.com/DanielaMeirelles)|<img src = "/Imagens Gerais/Daniela.jpeg" width="50" height="73">|
 |**Lucas Rodrigo Leite Fonseca Moreira**|Front End Developer|[@LinkedIn](https://www.linkedin.com/in/lucas-rodrigo-169405169/)|[@GitHub](https://github.com/lucasrodrigof)|<img src = "/Imagens Gerais/Lucas.jpeg" width="50" height="73">|
 |**João Victor Marinho de Souza**|Back End Developer|[@LinkedIn](https://www.linkedin.com/in/joaomaarinho/)|[@GitHub](https://github.com/joaomaarinho)|<img src = "/Imagens Gerais/Joao.jpeg" width="50" height="73">|
@@ -151,7 +161,7 @@
 
  <h1 align="center"> <img src = "/Imagens Gerais/Fatec.jpg" height="90" /></h1>
  
- <h5 align="center"> <img src = "/Imagens Gerais/faTec.png" width="20" height="20" /> Projeto Integrador 2022 - Fatec São José dos Campos </h5>
+ <h5 align="center"> <img src = "/Imagens Gerais/faTec.png" width="20" height="20" /> Projeto Integrador 2024 - Fatec São José dos Campos </h5>
  
 <!--
 | Sprint 1 -  | Conclusão |
