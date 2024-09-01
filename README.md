@@ -53,17 +53,17 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 ## :spiral_calendar: Sprints
 
-- [x] KICK OFF - 15/08 a 19/08: Concluído :heavy_check_mark:
+- [x] KICK OFF - 02/09 a 06/09: Em andamento
 
-- [x] [SPRINT 1](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%201) - 29/08 a 18/09: Concluído :heavy_check_mark:
+- [x] [SPRINT 1](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%201) - 29/08 a 18/09: Em andamento 
 
-- [x] [SPRINT 2](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%202) - 19/09 a 09/10: Concluído :heavy_check_mark: 
+- [x] [SPRINT 2](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%202) - 19/09 a 09/10: Em andamento  
 
 - [x] [SPRINT 3](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%203) - 13/10 a 06/11: Em andamento
 
 - [x] [SPRINT 4](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%204) - 07/11 a 27/11: Em andamento
 
-- [x] Apresentação Final + Feira de Soluções- 08/12
+- [x] Apresentação Final + Feira de Soluções- 12/12
 
 <br>
 
@@ -78,10 +78,10 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 <img src = "#" width="680" height="511">
 
 * **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
-* **Banco de Dados:** ;
-* **Back-end:**  ;
-* **Front-end:** ;
-* **Ferramentas:** Github, Visual Studio Code, Figma.
+* **Banco de Dados:** NOSQL, MongoDB;
+* **Back-end:**  TypeScript, JavaScript;
+* **Front-end:** React, ReactNative;
+* **Ferramentas:** Github, Visual Studio Code, Figma, Android Studio.
 
 <br>
 
@@ -114,29 +114,29 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 ## :pencil2: Prototipos
 
-<p align="center"></p>
+<p align="center">???</p>
 <p align="center">
 <img src="#"/>
 </p>
 
-<p align="center"></p>
+<p align="center">???</p>
 <p align="center">
 <img src="#"/>
 </p>
 
-<p align="center">Tela Sobreaviso Funcionário</p>
+<p align="center">???</p>
 <p align="center">
-<img src="./Imagens Gerais/tela sobreaviso.png"/>
+<img src="#"/>
 </p>
 
-<p align="center">Tela Gestor Hora Extra</p>
+<p align="center">???</p>
 <p align="center">
-<img src="./Imagens Gerais/tela gestor hora extra.png"/>
+<img src="#"/>
 </p>
 
-<p align="center">Tela Gestor Sobreaviso</p>
+<p align="center">???</p>
 <p align="center">
-<img src="./Imagens Gerais/tela gestor sobreaviso.png"/>
+<img src="#"/>
 </p>
 
 <br>
@@ -152,11 +152,14 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 ## :mortar_board: Team
 |Nome|Função|Linkedin|GitHub|Avatar|
 | -------- |-------- |-------- |-------- |-------- |
-|**Lucas Rodrigo Leite Fonseca Moreira**|Scrum Master/Developer|[@LinkedIn](https://www.linkedin.com/in/ana-christina-silva)|[@GitHub](https://github.com/AnaChristina)|<img src = "/Imagens Gerais/Ana.jpeg" width="50" height="73">|
-|**Daniela dos Santos Meirelles**|Product Owner/Developer|[@LinkedIn](https://www.linkedin.com/in/daniela-meirelles-1990/)|[@GitHub](https://github.com/DanielaMeirelles)|<img src = "/Imagens Gerais/Daniela.jpeg" width="50" height="73">|
-|**Lucas Rodrigo Leite Fonseca Moreira**|Front End Developer|[@LinkedIn](https://www.linkedin.com/in/lucas-rodrigo-169405169/)|[@GitHub](https://github.com/lucasrodrigof)|<img src = "/Imagens Gerais/Lucas.jpeg" width="50" height="73">|
-|**João Victor Marinho de Souza**|Back End Developer|[@LinkedIn](https://www.linkedin.com/in/joaomaarinho/)|[@GitHub](https://github.com/joaomaarinho)|<img src = "/Imagens Gerais/Joao.jpeg" width="50" height="73">|
- 
+|**Lucas Rodrigo Leite Fonseca Moreira**|Scrum Master/Developer|[@LinkedIn](https://www.linkedin.com/in/lucas-rodrigo-169405169/)|[@GitHub](https://github.com/lucasrodrigof)|<img src = "???" width="50" height="73">|
+|**Pedro Henrique Siqueira Cardoso**|Product Owner/Developer|[@LinkedIn](https://www.linkedin.com/in/pedro-cardoso-6b93011b6/)|[@GitHub](https://github.com/PhscZ)|<img src = "/Imagens Gerais/pedro.png" width="50" height="73">|
+|**Giovani Carvalho Ávila**|Front End Developer|[@LinkedIn](https://www.linkedin.com/in/giovani-carvalho-avila-80593a224/)|[@GitHub](https://github.com/GiovaniAvila)|<img src = "/Imagens Gerais/giovani.png" width="50" height="73">|
+|**Thiago Carvalho da Silva**|Back End Developer|[@LinkedIn](#)|[@GitHub](https://github.com/tsilvadev89)|<img src = "/Imagens Gerais/thiago.jpeg" width="50" height="73">|
+|**Juliano Vitor Prado**|Back End Developer|[@LinkedIn](#)|[@GitHub](https://github.com/julianopradoo)|<img src = "/Imagens Gerais/juliano.png" width="50" height="73">|
+|**Leonardo Gazola Medeiros**|Back End Developer|[@LinkedIn](https://www.linkedin.com/in/leonardo-gazola/)|[@GitHub](https://github.com/Leonardo-Gazola-Medeiros)|<img src = "/Imagens Gerais/leo.jpg" width="50" height="73">| 
+|**Willians Eduardo Delfino Motta**|Front End Developer|[@LinkedIn](https://www.linkedin.com/in/willians-motta-4892a3208/)|[@GitHub](https://github.com/williansmott4)|<img src = "/Imagens Gerais/will.png" width="50" height="73">| 
+
 <br>
 
  <h1 align="center"> <img src = "/Imagens Gerais/Fatec.jpg" height="90" /></h1>
