@@ -75,7 +75,7 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 ## :wrench: Tecnologias Utilizadas
 
-<img src = "#" width="680" height="511">
+<img src = "./Imagens Gerais/tecnologias utilizadas.png" width="680" height="511">
 
 * **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
 * **Banco de Dados:** NOSQL, MongoDB;
