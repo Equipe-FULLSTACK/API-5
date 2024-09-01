@@ -55,13 +55,13 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 - [x] KICK OFF - 02/09 a 06/09: Em andamento
 
-- [x] [SPRINT 1](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%201) - 29/08 a 18/09: Em andamento 
+- [x] [SPRINT 1](https://github.com/Equipe-FULLSTACK/API-5/tree/main/Sprint%201) - 29/08 a 18/09: Em andamento 
 
-- [x] [SPRINT 2](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%202) - 19/09 a 09/10: Em andamento  
+- [x] [SPRINT 2](https://github.com/Equipe-FULLSTACK/API-5/tree/main/Sprint%202) - 19/09 a 09/10: Em andamento  
 
-- [x] [SPRINT 3](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%203) - 13/10 a 06/11: Em andamento
+- [x] [SPRINT 3](https://github.com/Equipe-FULLSTACK/API-5/tree/main/Sprint%203) - 13/10 a 06/11: Em andamento
 
-- [x] [SPRINT 4](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%204) - 07/11 a 27/11: Em andamento
+- [x] [SPRINT 4](https://github.com/Equipe-FULLSTACK/API-5/tree/main/Sprint%204) - 07/11 a 27/11: Em andamento
 
 - [x] Apresentação Final + Feira de Soluções- 12/12
 
@@ -155,7 +155,7 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 |**Lucas Rodrigo Leite Fonseca Moreira**|Scrum Master/Developer|[@LinkedIn](https://www.linkedin.com/in/lucas-rodrigo-169405169/)|[@GitHub](https://github.com/lucasrodrigof)|<img src = "???" width="50" height="73">|
 |**Pedro Henrique Siqueira Cardoso**|Product Owner/Developer|[@LinkedIn](https://www.linkedin.com/in/pedro-cardoso-6b93011b6/)|[@GitHub](https://github.com/PhscZ)|<img src = "/Imagens Gerais/pedro.png" width="50" height="73">|
 |**Giovani Carvalho Ávila**|Front End Developer|[@LinkedIn](https://www.linkedin.com/in/giovani-carvalho-avila-80593a224/)|[@GitHub](https://github.com/GiovaniAvila)|<img src = "/Imagens Gerais/giovani.png" width="50" height="73">|
-|**Thiago Carvalho da Silva**|Back End Developer|[@LinkedIn](#)|[@GitHub](https://github.com/tsilvadev89)|<img src = "/Imagens Gerais/thiago.jpeg" width="50" height="73">|
+|**Thiago Carvalho da Silva**|Back End Developer|[@LinkedIn](#)|[@GitHub](https://github.com/tsilvadev89)|<img src = "/Imagens Gerais/thiago.png" width="50" height="73">|
 |**Juliano Vitor Prado**|Back End Developer|[@LinkedIn](#)|[@GitHub](https://github.com/julianopradoo)|<img src = "/Imagens Gerais/juliano.png" width="50" height="73">|
 |**Leonardo Gazola Medeiros**|Back End Developer|[@LinkedIn](https://www.linkedin.com/in/leonardo-gazola/)|[@GitHub](https://github.com/Leonardo-Gazola-Medeiros)|<img src = "/Imagens Gerais/leo.jpg" width="50" height="73">| 
 |**Willians Eduardo Delfino Motta**|Front End Developer|[@LinkedIn](https://www.linkedin.com/in/willians-motta-4892a3208/)|[@GitHub](https://github.com/williansmott4)|<img src = "/Imagens Gerais/will.png" width="50" height="73">| 
