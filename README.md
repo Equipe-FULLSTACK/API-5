@@ -1,7 +1,4 @@
-<p align="center">
-<h3 align="center"># ClimaMonitor <br></h3>
-<h3 align="center"># Monitoramento Inteligente de Condições Climáticas para Produtores Rurais</h3>
-<p align="center">
+# ClimaMonitor - Monitoramento Inteligente de Condições Climáticas para Produtores Rurais
 <br>
 <p align="center">
       <img src="/Imagens Gerais/logo.png" width="300" height="250">
