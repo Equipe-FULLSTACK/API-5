@@ -114,8 +114,8 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 ## :pencil2: Prototipos
 
-
-<p align ="center">Acesse o video da Sprint 1 [aqui](https://youtube.com/shorts/VbizYCUi2_o?si=wlxYst2TCr7fHK_s)</p>
+<br>
+Acesse o video da Sprint 1 [aqui](https://youtube.com/shorts/VbizYCUi2_o?si=wlxYst2TCr7fHK_s) 
 
 
 <p align="center">???</p>
