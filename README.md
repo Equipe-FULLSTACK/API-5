@@ -118,26 +118,6 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 Acesse o video da Sprint 1 [aqui](https://youtube.com/shorts/VbizYCUi2_o?si=wlxYst2TCr7fHK_s) 
 
 
-<p align="center">???</p>
-<p align="center">
-<img src="#"/>
-</p>
-
-<p align="center">???</p>
-<p align="center">
-<img src="#"/>
-</p>
-
-<p align="center">???</p>
-<p align="center">
-<img src="#"/>
-</p>
-
-<p align="center">???</p>
-<p align="center">
-<img src="#"/>
-</p>
-
 <br>
 
 ## :page_with_curl: Backlog
