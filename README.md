@@ -107,8 +107,8 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 | Repositório                                                       | Descrição                                                                          |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [Documentation]() | Documentação do sistema                                                      |
-| [FrontEnd]()           | Documentação FrontEnd                                                   |
-| [BackEnd]()           | Documentação BackEnd                                                            |
+| [FrontEnd](https://github.com/FATEC-FULLSTACK/FRONTEND-API5S)           | Documentação FrontEnd                                                   |
+| [BackEnd](https://github.com/Equipe-FULLSTACK/API-5/tree/main/Backend)           | Documentação BackEnd                                                            |
 
 <br>
 
