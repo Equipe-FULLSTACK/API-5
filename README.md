@@ -137,7 +137,6 @@ Acesse o video da Sprint 1 [aqui](https://youtube.com/shorts/VbizYCUi2_o?si=wlxY
 |**Thiago Carvalho da Silva**|Back End Developer|[@LinkedIn](https://www.linkedin.com/in/thiago-silva-49bb74168)|[@GitHub](https://github.com/tsilvadev89)|<img src = "/Imagens Gerais/thiago.png" width="70" height="73">|
 |**Juliano Vitor Prado**|Back End Developer|[@LinkedIn](#)|[@GitHub](https://github.com/julianopradoo)|<img src = "/Imagens Gerais/juliano.png" width="70" height="73">|
 |**Leonardo Gazola Medeiros**|Back End Developer|[@LinkedIn](https://www.linkedin.com/in/leonardo-gazola/)|[@GitHub](https://github.com/Leonardo-Gazola-Medeiros)|<img src = "/Imagens Gerais/leo.jpg" width="70" height="73">| 
-|**Willians Eduardo Delfino Motta**|Front End Developer|[@LinkedIn](https://www.linkedin.com/in/willians-motta-4892a3208/)|[@GitHub](https://github.com/williansmott4)|<img src = "/Imagens Gerais/will.png" width="70" height="73">| 
 
 <br>
 
