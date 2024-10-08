@@ -53,9 +53,9 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 ## :spiral_calendar: Sprints
 
-- [x] KICK OFF - 02/09 a 06/09: Em andamento
+- [x] KICK OFF - 02/09 a 06/09: Concluída :white_check_mark:
 
-- [x] SPRINT 1 - 09/09 a 29/09: Concluída 
+- [x] SPRINT 1 - 09/09 a 29/09: Concluída :white_check_mark:
 
 - [x] SPRINT 2 - 30/09 a 20/10: Em andamento  
 
