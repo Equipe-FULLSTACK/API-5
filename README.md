@@ -92,12 +92,12 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 <p align="center">Modelo Conceitual</p>
 <p align="center">
-<img src="#"/>
+<img src="./Backend/Database/Relacional/Conceitual/ConceitualV1.0 - .jpg"/>
 </p>
 
 <p align="center">Modelo Lógico</p>
 <p align="center">
-<img src="#"/>
+<img src="./Backend/Database/Relacional/Logico/LogicoV1.0 .png"/>
 </p>
 
 <br>
