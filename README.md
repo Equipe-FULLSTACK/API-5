@@ -55,13 +55,13 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 - [x] KICK OFF - 02/09 a 06/09: Em andamento
 
-- [x] [SPRINT 1](https://github.com/Equipe-FULLSTACK/API-5/tree/main/Sprint%201) - 09/09 a 29/09: Em andamento 
+- [x] SPRINT 1 - 09/09 a 29/09: Concluída 
 
-- [x] [SPRINT 2](https://github.com/Equipe-FULLSTACK/API-5/tree/main/Sprint%202) - 30/09 a 20/10: Em andamento  
+- [x] SPRINT 2 - 30/09 a 20/10: Em andamento  
 
-- [x] [SPRINT 3](https://github.com/Equipe-FULLSTACK/API-5/tree/main/Sprint%203) - 21/10 a 10/11: Em andamento
+- [x] SPRINT 3 - 21/10 a 10/11: Em andamento
 
-- [x] [SPRINT 4](https://github.com/Equipe-FULLSTACK/API-5/tree/main/Sprint%204) - 11/11 a 01/12: Em andamento
+- [x] SPRINT 4 - 11/11 a 01/12: Em andamento
 
 - [x] Apresentação Final + Feira de Soluções- 12/12
 
@@ -87,7 +87,7 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 ## :computer: Modelagem do Banco de Dados
 
-[Documentação do Banco de Dados]()
+[Documentação do Banco de Dados](https://github.com/Equipe-FULLSTACK/API-5/tree/main/Backend)
 
 
 <p align="center">Modelo Conceitual</p>
