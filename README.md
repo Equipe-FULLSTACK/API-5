@@ -69,7 +69,7 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 ## :bulb: Metodologia Utilizada
 
-* **Metodologia Ágil:** 
+* **Metodologia Ágil:** Framework [Jira](https://www.atlassian.com/br/software/jira/templates/scrum)
 
 <br>
 
