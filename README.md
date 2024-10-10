@@ -121,10 +121,11 @@ Acesse o video da Sprint 1 [aqui](https://youtube.com/shorts/VbizYCUi2_o?si=wlxY
 <br>
 
 ## :page_with_curl: Backlog
+<p><h3 align="center"> Backlog do Produto </h3></p>
+<h1 align="left"> <img src = "./Imagens Gerais/ProductBacklog.jpg"/></h1>
 
-<h1 align="left"> <img src = "./Imagens Gerais/Product Backlog 1.jpg"/></h1>
-
-<h1 align="left"> <img src = "./Imagens Gerais/Product Backlog 2.png"/></h1>
+<p><h3 align="center"> Backlog Sprint 1</h3></p>
+<h1 align="left"> <img src = "./Imagens Gerais/Backlog1.jpg"/></h1>
 
 <br>
 
