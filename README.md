@@ -57,7 +57,7 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 - [x] SPRINT 1 - 09/09 a 29/09: Concluída :white_check_mark:
 
-- [x] SPRINT 2 - 30/09 a 20/10: Em andamento  
+- [x] SPRINT 2 - 30/09 a 20/10: Concluída :white_check_mark:  
 
 - [x] SPRINT 3 - 21/10 a 10/11: Em andamento
 
@@ -117,6 +117,10 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 <br>
 
 Acesse o video da Sprint 1 [aqui](https://youtube.com/shorts/VbizYCUi2_o?si=wlxYst2TCr7fHK_s)
+
+<br>
+
+Acesse o video da Sprint 2 [aqui](https://youtu.be/cfCE5jige9w?si=34B8xZuu6WfZEL2h)
 
 <br>
 
