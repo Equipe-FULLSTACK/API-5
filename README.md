@@ -362,4 +362,27 @@ Ao final da terçeira sprint, foram entregues as seguintes tasks:
 ###  <div align="center"> Projeto API 5º Semestre: </div>
   ### <div align="center"> FATEC São José dos Campos - Prof. Jessen Vidal </div>
 
+
+  <h2 align="center">Tasks Concluidas</h1>
+
+Ao final da quarta sprint, foram entregues as seguintes tasks:
+
+- Documentação.
+- Integração de dados com API externa.
+
+
+   ### <p align="center">Estado final do Projeto
+  
+  <p align="center">
+  <img src="./" width="382" height="882"><br>
+
+   <p align="center">
+  <img src="./" width="382" height="882"><br>
+
+   <p align="center">
+  <img src="./" width="382" height="882"><br>
+
+   <p align="center">
+  <img src="./" width="382" height="882"><br>
+
 </details>
