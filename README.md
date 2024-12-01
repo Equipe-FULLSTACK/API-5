@@ -229,9 +229,9 @@ Acesse o video da Sprint 2 [aqui](https://youtu.be/cfCE5jige9w?si=34B8xZuu6WfZEL
 
 
 
-  #### <div align="center"> Estado do Projeto ao final da Primeira Sprint: </div>
+  #### <div align="center"> Protótipo Figma </div>
   
-  <div align="center"> <img src="/image "width="640" height="360"> </div>
+  <div align="center"> <img src="/Imagens Gerais/figma.jpg "width="640" height="360"> </div>
   
   
 
@@ -240,14 +240,14 @@ Acesse o video da Sprint 2 [aqui](https://youtu.be/cfCE5jige9w?si=34B8xZuu6WfZEL
   ### <div align="center"> Estado Final do Projeto 1º Sprint: </div>
 
   <div align = "center">
-    <img src="/readme/tela01.png" width="640" height="360"><br>
-    <img src="/readme/tela02.png" width="640" height="360"><br>
-    <img src="/readme/tela04.png" width="640" height="360">
+    <img src="/Imagens Gerais/login.jpg" width="382" height="882"><br>
+    <img src="/Imagens Gerais/mapa.jpg" width="382" height="882"><br>
+    
   </div>
 
 <h2 align="center">Tasks Concluidas</h1>
 
-DURANTE A PRIMEIRA SPRINT, FORAM ENTREGUES AS SEGUINTES TASKS.
+Ao final da primeira sprint, foram entregues as seguintes tasks:
 
 - Sistema de cadastro de pontos.
 - Integração com google maps.
@@ -282,7 +282,7 @@ DURANTE A PRIMEIRA SPRINT, FORAM ENTREGUES AS SEGUINTES TASKS.
   ### <p align="center">Modelagem Física NoSQL
   
   <p align="center">
-  <img src="/readme/Diagrama-Classes.png" width="700" height="500"><br>
+  <img src="/Backend/Database/Não Relacional/ModelagemNoSql/ModelagemNoSqlEV1.0 .png" width="700" height="500"><br>
   
   <br>
   <br>
@@ -294,6 +294,25 @@ DURANTE A PRIMEIRA SPRINT, FORAM ENTREGUES AS SEGUINTES TASKS.
 <summary>2ª Sprint</summary>
 </br>
 
+ Segunda Sprint - 30/09/2024
+  ============================
+  ****************************
+###  <div align="center"> Projeto API 5º Semestre: </div>
+  ### <div align="center"> FATEC São José dos Campos - Prof. Jessen Vidal </div>
+
+<h2 align="center">Tasks Concluidas</h1>
+
+Ao final da segunda sprint, foram entregues as seguintes tasks:
+
+- Integrações das telas com backend.
+- Integração da busca com nome e lista suspensa de localização
+- Fetch dos pontos salvos no banco de dados
+- CRUD dos pontos e notificações.
+- Redirecionamento do mapa para ponto de pesquisa ou ponto salvo.
+- Refatorado organização do projeto componetizando algumas funcionalidades.
+
+  
+
 </details>
 
 
@@ -301,10 +320,22 @@ DURANTE A PRIMEIRA SPRINT, FORAM ENTREGUES AS SEGUINTES TASKS.
 <summary>3ª Sprint</summary>
 </br>
 
+ Terceira Sprint - 21/10/2024
+  ============================
+  ****************************
+###  <div align="center"> Projeto API 5º Semestre: </div>
+  ### <div align="center"> FATEC São José dos Campos - Prof. Jessen Vidal </div>
+
 </details>
 
 <details>
 <summary>4ª Sprint</summary>
 </br>
+
+ Quarta Sprint - 11/11/2024
+  ============================
+  ****************************
+###  <div align="center"> Projeto API 5º Semestre: </div>
+  ### <div align="center"> FATEC São José dos Campos - Prof. Jessen Vidal </div>
 
 </details>
