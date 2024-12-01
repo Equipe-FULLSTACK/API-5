@@ -335,6 +335,21 @@ Ao final da segunda sprint, foram entregues as seguintes tasks:
 ###  <div align="center"> Projeto API 5º Semestre: </div>
   ### <div align="center"> FATEC São José dos Campos - Prof. Jessen Vidal </div>
 
+  <h2 align="center">Tasks Concluidas</h1>
+
+Ao final da terçeira sprint, foram entregues as seguintes tasks:
+
+- Sistema de Gráficos.
+- Integração de dados com API externa.
+
+  Um ponto importante na terceira sprint, foi a mudança de API, que antes estava sendo utilizada a API da NASA, e agora openMeteo.
+
+   ### <p align="center">Sistema de Gráficos
+  
+  <p align="center">
+  <img src="./Imagens Gerais/sistemaGrafico.jpg" width="382" height="882"><br>
+  
+
 </details>
 
 <details>
