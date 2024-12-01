@@ -291,20 +291,38 @@ Ao final da primeira sprint, foram entregues as seguintes tasks:
 
 
 <details>
-<summary>2ª Sprint</summary>
+<summary>1ª Sprint</summary>
 </br>
+
+ Segunda Sprint - 30/09/2024
+  ============================
+  ****************************
+###  <div align="center"> Projeto API 5º Semestre: </div>
+  ### <div align="center"> FATEC São José dos Campos - Prof. Jessen Vidal </div>
 
 </details>
 
 
 <details>
-<summary>3ª Sprint</summary>
+<summary>1ª Sprint</summary>
 </br>
+
+ Terceira Sprint - 21/10/2024
+  ============================
+  ****************************
+###  <div align="center"> Projeto API 5º Semestre: </div>
+  ### <div align="center"> FATEC São José dos Campos - Prof. Jessen Vidal </div>
 
 </details>
 
 <details>
-<summary>4ª Sprint</summary>
+<summary>1ª Sprint</summary>
 </br>
+
+ Quarta Sprint - 11/11/2024
+  ============================
+  ****************************
+###  <div align="center"> Projeto API 5º Semestre: </div>
+  ### <div align="center"> FATEC São José dos Campos - Prof. Jessen Vidal </div>
 
 </details>
