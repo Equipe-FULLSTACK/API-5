@@ -85,22 +85,7 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 <br>
 
-## :computer: Modelagem do Banco de Dados
-
 [Documentação do Banco de Dados](https://github.com/Equipe-FULLSTACK/API-5/tree/main/Backend)
-
-
-<p align="center">Modelo Conceitual</p>
-<p align="center">
-<img src="./Backend/Database/Relacional/Conceitual/ConceitualV1.0 - .jpg"/>
-</p>
-
-<p align="center">Modelo Lógico</p>
-<p align="center">
-<img src="./Backend/Database/Relacional/Logico/LogicoV1.0 .png"/>
-</p>
-
-<br>
 
 ## :package: Repositórios
 
@@ -230,3 +215,96 @@ Acesse o video da Sprint 2 [aqui](https://youtu.be/cfCE5jige9w?si=34B8xZuu6WfZEL
 
 
 ## ⌛ Funcionamento -->
+
+## SPRINTS
+<details>
+<summary>1ª Sprint</summary>
+</br>
+
+ Primeira Sprint - 09/09/2024
+  ============================
+  ****************************
+###  <div align="center"> Projeto API 5º Semestre: </div>
+  ### <div align="center"> FATEC São José dos Campos - Prof. Jessen Vidal </div>
+
+
+
+  #### <div align="center"> Estado do Projeto ao final da Primeira Sprint: </div>
+  
+  <div align="center"> <img src="/image "width="640" height="360"> </div>
+  
+  
+
+    
+    
+  ### <div align="center"> Estado Final do Projeto 1º Sprint: </div>
+
+  <div align = "center">
+    <img src="/readme/tela01.png" width="640" height="360"><br>
+    <img src="/readme/tela02.png" width="640" height="360"><br>
+    <img src="/readme/tela04.png" width="640" height="360">
+  </div>
+
+<h2 align="center">Tasks Concluidas</h1>
+
+DURANTE A PRIMEIRA SPRINT, FORAM ENTREGUES AS SEGUINTES TASKS.
+
+- Sistema de cadastro de pontos.
+- Integração com google maps.
+- Modelagem banco de dados. 
+- Desenvolvimento banco de dados.
+- Integração dos pontos com o banco de dados.
+- Sistema de login.
+
+<h2 align="center">Modelagem Banco de Dados</h1>
+
+ ### <p align="center">Modelo conceitual
+  
+  <p align="center">
+  <img src="./Backend/Database/Relacional/Conceitual/ConceitualV1.0 - .jpg" width="610" height="400"><br>
+  
+  <br>
+  <br>
+    
+  <p align="center">Escopo da primeira estrutura do Banco de dados após levantamento de requisitos feito pelos membros da equipe.
+    
+  ### <p align="center">Modelo Lógico
+    
+  <p align="center">
+  <img src="./Backend/Database/Relacional/Logico/LogicoV1.0 .png" width="520" height="600"><br>
+    
+  <br>
+  <br>
+    
+  <p align="center">Representação diagrámatica de dados, restrições, nomes de entidades e relacionamentos. É uma versão mais refinada do modelo conceitual de dados
+    
+
+  ### <p align="center">Modelagem Física NoSQL
+  
+  <p align="center">
+  <img src="/readme/Diagrama-Classes.png" width="700" height="500"><br>
+  
+  <br>
+  <br>
+
+</details>
+
+
+<details>
+<summary>2ª Sprint</summary>
+</br>
+
+</details>
+
+
+<details>
+<summary>3ª Sprint</summary>
+</br>
+
+</details>
+
+<details>
+<summary>4ª Sprint</summary>
+</br>
+
+</details>
