@@ -59,9 +59,9 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 - [x] SPRINT 2 - 30/09 a 20/10: Concluída :white_check_mark:  
 
-- [x] SPRINT 3 - 21/10 a 10/11: Em andamento
+- [x] SPRINT 3 - 21/10 a 10/11: Concluída :white_check_mark:
 
-- [x] SPRINT 4 - 11/11 a 01/12: Em andamento
+- [x] SPRINT 4 - 11/11 a 01/12: Concluída :white_check_mark:
 
 - [x] Apresentação Final + Feira de Soluções- 12/12
 
@@ -109,16 +109,7 @@ Acesse o video da Sprint 2 [aqui](https://youtu.be/cfCE5jige9w?si=34B8xZuu6WfZEL
 
 <br>
 
-## :page_with_curl: Backlog
-<p><h3 align="center"> Backlog do Produto </h3></p>
-<h1 align="left"> <img src = "./Imagens Gerais/ProductBacklog.jpg"/></h1>
 
-<p><h3 align="center"> Backlog Sprint 1</h3></p>
-<h1 align="left"> <img src = "./Imagens Gerais/Backlog1.jpg"/></h1>
-
-<p><h3 align="center"> Backlog Sprint 2</h3></p>
-<h1 align="left"> <img src = "./Imagens Gerais/Backlog 2.png"/></h1>
-<br>
 
 ## :mortar_board: Team
 |Nome|Função|Linkedin|GitHub|Avatar|
@@ -311,7 +302,25 @@ Ao final da segunda sprint, foram entregues as seguintes tasks:
 - Redirecionamento do mapa para ponto de pesquisa ou ponto salvo.
 - Refatorado organização do projeto componetizando algumas funcionalidades.
 
+   ### <p align="center">Buscar cordenada
   
+  <p align="center">
+  <img src="./Imagens Gerais/buscarCordenada.jpg" width="382" height="882"><br>
+
+   ### <p align="center">Editar informações no ponto
+  
+  <p align="center">
+  <img src="./Imagens Gerais/editarPonto.jpg" width="382" height="882"><br>
+
+   ### <p align="center">Histórico de Pontos
+  
+  <p align="center">
+  <img src="./Imagens Gerais/historicoPonto.jpg" width="382" height="882"><br>
+
+   ### <p align="center">Burcar por Endereço
+  
+  <p align="center">
+  <img src="./Imagens Gerais/historicoBusca.jpg" width="382" height="882"><br>
 
 </details>
 
@@ -325,6 +334,21 @@ Ao final da segunda sprint, foram entregues as seguintes tasks:
   ****************************
 ###  <div align="center"> Projeto API 5º Semestre: </div>
   ### <div align="center"> FATEC São José dos Campos - Prof. Jessen Vidal </div>
+
+  <h2 align="center">Tasks Concluidas</h1>
+
+Ao final da terçeira sprint, foram entregues as seguintes tasks:
+
+- Sistema de Gráficos.
+- Integração de dados com API externa.
+
+  Um ponto importante na terceira sprint, foi a mudança de API, que antes estava sendo utilizada a API da NASA, e agora openMeteo.
+
+   ### <p align="center">Sistema de Gráficos
+  
+  <p align="center">
+  <img src="./Imagens Gerais/sistemaGrafico.jpg" width="382" height="882"><br>
+  
 
 </details>
 
