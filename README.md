@@ -291,7 +291,7 @@ Ao final da primeira sprint, foram entregues as seguintes tasks:
 
 
 <details>
-<summary>1ª Sprint</summary>
+<summary>2ª Sprint</summary>
 </br>
 
  Segunda Sprint - 30/09/2024
@@ -300,11 +300,24 @@ Ao final da primeira sprint, foram entregues as seguintes tasks:
 ###  <div align="center"> Projeto API 5º Semestre: </div>
   ### <div align="center"> FATEC São José dos Campos - Prof. Jessen Vidal </div>
 
+<h2 align="center">Tasks Concluidas</h1>
+
+Ao final da segunda sprint, foram entregues as seguintes tasks:
+
+- Integrações das telas com backend.
+- Integração da busca com nome e lista suspensa de localização
+- Fetch dos pontos salvos no banco de dados
+- CRUD dos pontos e notificações.
+- Redirecionamento do mapa para ponto de pesquisa ou ponto salvo.
+- Refatorado organização do projeto componetizando algumas funcionalidades.
+
+  
+
 </details>
 
 
 <details>
-<summary>1ª Sprint</summary>
+<summary>3ª Sprint</summary>
 </br>
 
  Terceira Sprint - 21/10/2024
@@ -316,7 +329,7 @@ Ao final da primeira sprint, foram entregues as seguintes tasks:
 </details>
 
 <details>
-<summary>1ª Sprint</summary>
+<summary>4ª Sprint</summary>
 </br>
 
  Quarta Sprint - 11/11/2024
