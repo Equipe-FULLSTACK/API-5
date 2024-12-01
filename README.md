@@ -59,9 +59,9 @@ pluviometria por ano ou mês. E emitir notificações e alertas em caso de situa
 
 - [x] SPRINT 2 - 30/09 a 20/10: Concluída :white_check_mark:  
 
-- [x] SPRINT 3 - 21/10 a 10/11: Em andamento
+- [x] SPRINT 3 - 21/10 a 10/11: Concluída :white_check_mark:
 
-- [x] SPRINT 4 - 11/11 a 01/12: Em andamento
+- [x] SPRINT 4 - 11/11 a 01/12: Concluída :white_check_mark:
 
 - [x] Apresentação Final + Feira de Soluções- 12/12
 
@@ -311,7 +311,25 @@ Ao final da segunda sprint, foram entregues as seguintes tasks:
 - Redirecionamento do mapa para ponto de pesquisa ou ponto salvo.
 - Refatorado organização do projeto componetizando algumas funcionalidades.
 
+   ### <p align="center">Buscar cordenada
   
+  <p align="center">
+  <img src="./Imagens Gerais/buscarCordenada.jpg" width="382" height="882"><br>
+
+   ### <p align="center">Editar informações no ponto
+  
+  <p align="center">
+  <img src="./Imagens Gerais/editarPonto.jpg" width="382" height="882"><br>
+
+   ### <p align="center">Histórico de Pontos
+  
+  <p align="center">
+  <img src="./Imagens Gerais/historicoPonto.jpg" width="382" height="882"><br>
+
+   ### <p align="center">Burcar por Endereço
+  
+  <p align="center">
+  <img src="./Imagens Gerais/historicoBusca.jpg" width="382" height="882"><br>
 
 </details>
 
