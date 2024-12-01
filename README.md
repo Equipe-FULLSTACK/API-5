@@ -109,16 +109,7 @@ Acesse o video da Sprint 2 [aqui](https://youtu.be/cfCE5jige9w?si=34B8xZuu6WfZEL
 
 <br>
 
-## :page_with_curl: Backlog
-<p><h3 align="center"> Backlog do Produto </h3></p>
-<h1 align="left"> <img src = "./Imagens Gerais/ProductBacklog.jpg"/></h1>
 
-<p><h3 align="center"> Backlog Sprint 1</h3></p>
-<h1 align="left"> <img src = "./Imagens Gerais/Backlog1.jpg"/></h1>
-
-<p><h3 align="center"> Backlog Sprint 2</h3></p>
-<h1 align="left"> <img src = "./Imagens Gerais/Backlog 2.png"/></h1>
-<br>
 
 ## :mortar_board: Team
 |Nome|Função|Linkedin|GitHub|Avatar|
