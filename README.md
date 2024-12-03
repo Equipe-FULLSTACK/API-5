@@ -231,8 +231,8 @@ Acesse o video da Sprint 2 [aqui](https://youtu.be/cfCE5jige9w?si=34B8xZuu6WfZEL
   ### <div align="center"> Estado Final do Projeto 1º Sprint: </div>
 
   <div align = "center">
-    <img src="/Imagens Gerais/login.jpg" width="382" height="882"><br>
-    <img src="/Imagens Gerais/mapa.jpg" width="382" height="882"><br>
+    <img src="/Imagens Gerais/login.jpg" width="191" height="441"><br>
+    <img src="/Imagens Gerais/mapa.jpg" width="191" height="442"><br>
     
   </div>
 
@@ -305,22 +305,22 @@ Ao final da segunda sprint, foram entregues as seguintes tasks:
    ### <p align="center">Buscar cordenada
   
   <p align="center">
-  <img src="./Imagens Gerais/buscarCordenada.jpg" width="382" height="882"><br>
+  <img src="./Imagens Gerais/buscarCordenada.jpg" width="191" height="441"><br>
 
    ### <p align="center">Editar informações no ponto
   
   <p align="center">
-  <img src="./Imagens Gerais/editarPonto.jpg" width="382" height="882"><br>
+  <img src="./Imagens Gerais/editarPonto.jpg" width="191" height="441"><br>
 
    ### <p align="center">Histórico de Pontos
   
   <p align="center">
-  <img src="./Imagens Gerais/historicoPonto.jpg" width="382" height="882"><br>
+  <img src="./Imagens Gerais/historicoPonto.jpg" width="191" height="441"><br>
 
-   ### <p align="center">Burcar por Endereço
+   ### <p align="center">Buscar por Endereço
   
   <p align="center">
-  <img src="./Imagens Gerais/historicoBusca.jpg" width="382" height="882"><br>
+  <img src="./Imagens Gerais/historicoBusca.jpg" width="191" height="441"><br>
 
 </details>
 
@@ -347,7 +347,7 @@ Ao final da terçeira sprint, foram entregues as seguintes tasks:
    ### <p align="center">Sistema de Gráficos
   
   <p align="center">
-  <img src="./Imagens Gerais/sistemaGrafico.jpg" width="382" height="882"><br>
+  <img src="./Imagens Gerais/sistemaGrafico.jpg" width="191" height="441"><br>
   
 
 </details>
@@ -374,15 +374,15 @@ Ao final da quarta sprint, foram entregues as seguintes tasks:
    ### <p align="center">Estado final do Projeto
   
   <p align="center">
-  <img src="./" width="382" height="882"><br>
+  <img src="./" width="191" height="441"><br>
+        
+  <p align="center">
+  <img src="./" width="191" height="441"><br>
+  
+  <p align="center">
+  <img src="./" width="191" height="441"><br>
 
-   <p align="center">
-  <img src="./" width="382" height="882"><br>
-
-   <p align="center">
-  <img src="./" width="382" height="882"><br>
-
-   <p align="center">
-  <img src="./" width="382" height="882"><br>
+  <p align="center">
+  <img src="./" width="191" height="441"><br>
 
 </details>
