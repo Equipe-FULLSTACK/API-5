@@ -374,15 +374,9 @@ Ao final da quarta sprint, foram entregues as seguintes tasks:
    ### <p align="center">Estado final do Projeto
   
   <p align="center">
-  <img src="./Imagens Gerais/estFinal1.jpg" width="191" height="441"><br>
-        
-  <p align="center">
-  <img src="./Imagens Gerais/estFinal2.jpg" width="191" height="441"><br>
-  
-  <p align="center">
-  <img src="./Imagens Gerais/estFinal3.jpg" width="191" height="441"><br>
-
-  <p align="center">
+  <img src="./Imagens Gerais/estFinal1.jpg" width="191" height="441">
+  <img src="./Imagens Gerais/estFinal2.jpg" width="191" height="441">
+  <img src="./Imagens Gerais/estFinal3.jpg" width="191" height="441">
   <img src="./Imagens Gerais/estFinal4.jpg" width="191" height="441"><br>
 
 </details>
